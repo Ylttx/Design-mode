@@ -15,3 +15,7 @@
 
 <img src="/Users/dllttx/Documents/learning/DesignMode/decorator/Decorator.svg" alt="Decorator" style="zoom:67%;" />
 
+## 第八章：工厂方法模式
+* 学雷锋
+优点：完全OCP，解决类简单工厂模式不但对扩展开放，对修改也开放的缺点
+缺点：每加一个产品，就要一个产品工厂类，增加了开发工作量
