@@ -1,5 +1,15 @@
 {
     "files.associations": {
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "new": "cpp",
+        "memory": "cpp",
+        "unordered_set": "cpp",
+        "deque": "cpp",
+        "vector": "cpp",
+        "list": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "typeinfo": "cpp"
     }
 }
