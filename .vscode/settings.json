@@ -10,6 +10,12 @@
         "list": "cpp",
         "*.tcc": "cpp",
         "iostream": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "numeric": "cpp",
+        "queue": "cpp",
+        "utility": "cpp"
     }
 }
