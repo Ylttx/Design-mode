@@ -16,6 +16,7 @@
         "iterator": "cpp",
         "numeric": "cpp",
         "queue": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "unordered_map": "cpp"
     }
 }
