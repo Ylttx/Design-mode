@@ -17,6 +17,9 @@
         "numeric": "cpp",
         "queue": "cpp",
         "utility": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "exception": "cpp",
+        "__availability": "cpp",
+        "__hash_table": "cpp"
     }
 }
