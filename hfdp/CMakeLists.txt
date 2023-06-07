@@ -10,9 +10,11 @@ set(CMAKE_CXX_FLAGS_RELEASE "-g -NODEBUG -O2")
 include_directories(${CMAKE_SOURCE_DIR}/include)
 include_directories(${CMAKE_SOURCE_DIR}/source/01_strategy/inc)
 include_directories(${CMAKE_SOURCE_DIR}/source/02_observer/inc)
+include_directories(${CMAKE_SOURCE_DIR}/source/03_decorator/inc)
 
 # link files
 # link_directories(/usr/local/lib)
 
 add_subdirectory(source/01_strategy)
 add_subdirectory(source/02_observer)
+add_subdirectory(source/03_decorator)
